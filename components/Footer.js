@@ -32,8 +32,8 @@ export default function Footer() {
     <footer className="bg-ink-950 text-cream-50 mt-16">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 py-12 grid lg:grid-cols-5 gap-10">
         <div className="lg:col-span-2">
-          <div className="bg-cream-50 inline-block rounded-xl px-3 py-2">
-            <Logo className="h-12 w-auto" />
+          <div className="bg-cream-50 inline-block rounded-xl px-4 py-3">
+            <Logo className="h-14 w-auto" />
           </div>
           <p className="mt-5 text-cream-50/75 max-w-sm">
             Where reality takes a break. Zambia's most advanced indoor gaming arena —
